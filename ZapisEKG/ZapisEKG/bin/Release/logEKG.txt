@@ -1,0 +1,462 @@
+Init EKG1
+14.09.2018 16:57:51
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG2
+14.09.2018 16:57:54
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG3
+14.09.2018 16:57:57
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG4
+14.09.2018 16:58:03
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG5
+14.09.2018 16:58:07
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG6
+14.09.2018 16:58:11
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG7
+14.09.2018 16:58:15
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG8
+14.09.2018 16:58:18
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG9
+14.09.2018 16:58:22
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG10
+14.09.2018 16:58:27
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG11
+14.09.2018 16:58:34
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG12
+14.09.2018 16:58:45
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG1
+14.09.2018 16:59:31
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG2
+14.09.2018 16:59:35
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG3
+14.09.2018 16:59:40
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG4
+14.09.2018 16:59:43
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG5
+14.09.2018 16:59:52
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG6
+14.09.2018 16:59:56
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG7
+14.09.2018 17:00:00
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG8
+14.09.2018 17:00:05
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG9
+14.09.2018 17:00:09
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG10
+14.09.2018 17:00:13
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG11
+14.09.2018 17:00:16
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG12
+14.09.2018 17:00:24
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG13
+14.09.2018 17:00:27
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG14
+14.09.2018 17:00:30
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG15
+14.09.2018 17:00:34
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG1
+14.09.2018 17:09:47
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG2
+14.09.2018 17:09:51
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG3
+14.09.2018 17:09:55
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG4
+14.09.2018 17:09:58
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG5
+14.09.2018 17:10:02
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG6
+14.09.2018 17:10:08
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG7
+14.09.2018 17:10:12
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG8
+14.09.2018 17:10:19
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG9
+14.09.2018 17:10:22
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG10
+14.09.2018 17:10:26
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG11
+14.09.2018 17:10:30
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG12
+14.09.2018 17:10:36
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG13
+14.09.2018 17:10:40
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG14
+14.09.2018 17:10:44
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>
+Init EKG15
+14.09.2018 17:10:50
+ansfer heroku...
+Microsoft Windows [Version 10.0.17134.285]
+(c) 2018 Microsoft Corporation. Wszelkie prawa zastrzeľone.
+ansfer query...
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>heroku pg:psql postgresql-clean-81393 --app ekg-app
+INSERT 0 1
+
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release>

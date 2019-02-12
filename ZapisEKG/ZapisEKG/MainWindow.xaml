@@ -1,0 +1,18 @@
+﻿<Window x:Class="ZapisEKG.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZapisEKG"
+        mc:Ignorable="d"
+        Title="ZapisEKG" Height="272" Width="266">
+    <Grid Margin="0,0,2,1">
+        <Button Content="Wybierz folder" HorizontalAlignment="Left" Height="41" Margin="76,117,0,0" VerticalAlignment="Top" Width="114" Click="Wybierz_folder" Background="White"/>
+        <Label Content="Wprowadź swoje ID:" HorizontalAlignment="Left" Height="29" Margin="45,67,0,0" VerticalAlignment="Top" Width="127"/>
+        <Button Content="Prześlij" HorizontalAlignment="Left" Height="41" Margin="76,163,0,0" VerticalAlignment="Top" Width="114" Click="Przeslij" Background="White"/>
+        <Image x:Name="czekaj" Margin="76,112,66,22" Source="oczekiwanie.JPG" Visibility="Hidden"/>
+        <Image Margin="0,0,0,178" Source="2.png" Stretch="Fill"/>
+        <TextBox x:Name="ID" HorizontalAlignment="Left" Height="29" Margin="177,67,0,0" TextWrapping="Wrap" Text="ID" VerticalAlignment="Top" Width="39" TextChanged="TextBox_TextChanged"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release\ZapisEKG.exe.config
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release\ZapisEKG.exe
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\bin\Release\ZapisEKG.pdb
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\obj\Release\MainWindow.g.cs
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\obj\Release\App.g.cs
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\obj\Release\ZapisEKG_MarkupCompile.cache
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\obj\Release\ZapisEKG_MarkupCompile.lref
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\obj\Release\MainWindow.baml
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\obj\Release\ZapisEKG.g.resources
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\obj\Release\ZapisEKG.Properties.Resources.resources
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\obj\Release\ZapisEKG.csproj.GenerateResource.cache
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\obj\Release\ZapisEKG.csproj.CoreCompileInputs.cache
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\obj\Release\ZapisEKG.exe
+C:\Users\Kamil Suchanek\Desktop\ZapisEKG\ZapisEKG\obj\Release\ZapisEKG.pdb
