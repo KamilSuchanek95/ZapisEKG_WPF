@@ -20,3 +20,6 @@ haslo: proszę o kontakt na adres.
 
 
 Dopiero po tym aplikacja zdoła połączyć się z bazą danych przy pomocy heroku CLI.
+
+
+# to wszystko jest nieaktualne :D
