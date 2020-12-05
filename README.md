@@ -11,5 +11,6 @@
 <p align="center">
   <img src="/okno_aplikacji.png" alt="Okno aplikacji">
 </p>
+
 ### Wgrywanie przykładowych danych (yt)
 [![Wgrywanie przykładowych rekordów do bazy danych](https://img.youtube.com/vi/nCj1PFEzOXY/0.jpg)](https://www.youtube.com/watch?v=nCj1PFEzOXY)
