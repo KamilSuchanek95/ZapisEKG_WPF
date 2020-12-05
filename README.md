@@ -7,3 +7,8 @@
 >  * psql : https://www.postgresql.org/download/windows/
 >
 >Trzeba też być zalogowanym w heroku CLI. To kłopotliwe, przydałby się jakiś krok pośredni, przesyłanie na inny serwer, który by weryfikował, co to, po co i ewentualnie przesyłał dopiero wtedy do bazy danych hmm, albo wygenerować jakiś token, zamiast tego logowania hmm, ale tak to wtedy zrobiłem i działało hm.
+
+![Okno aplikacji](/okno_aplikacji.png)
+
+### Wgrywanie przykładowych danych (yt)
+[![Wgrywanie przykładowych rekordów do bazy danych](https://img.youtube.com/vi/nCj1PFEzOXY/0.jpg)](https://www.youtube.com/watch?v=nCj1PFEzOXY)
