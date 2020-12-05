@@ -1,25 +1,9 @@
-# ZapisEKG_WPF
-Aplikacja służąca do przesyłania danych EKG na stronę internetową w ramach repozytorium ZapisEKG.
+## Aplikacja służąca do przesyłania danych EKG na stronę internetową
 
-WAŻNE ! 
+>Narzędzie to stanowi uzupełnienie projektu z Telemedycyny => https://github.com/KamilSuchanek95/Telemedycyna---Projekt
 
-zapomniałem dopisać, że do działania aplikacji wymagana jest instalacja:
-
-heroku : https://devcenter.heroku.com/articles/heroku-cli#download-and-install
-
-psql : https://www.postgresql.org/download/windows/
-
-oraz po instalacji należy zalogować się na heroku w ten spoósb:
-
-otworzyć konsolę
-
-wpisać: heroku login
-
-email : kamisuc671@student.polsl.pl
-haslo: proszę o kontakt na adres.
-
-
-Dopiero po tym aplikacja zdoła połączyć się z bazą danych przy pomocy heroku CLI.
-
-
-# to wszystko jest nieaktualne :D
+>Aby narzędzie zadziałało, trzeba zainstalować:
+>  * heroku : https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+>  * psql : https://www.postgresql.org/download/windows/
+>
+>Trzeba też być zalogowanym w heroku CLI. To kłopotliwe, przydałby się jakiś krok pośredni, przesyłanie na inny serwer, który by weryfikował, co to, po co i ewentualnie przesyłał dopiero wtedy do bazy danych hmm, albo wygenerować jakiś token, zamiast tego logowania hmm, ale tak to wtedy zrobiłem i działało hm.
